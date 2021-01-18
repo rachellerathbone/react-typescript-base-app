@@ -17,6 +17,6 @@ install_dependencies:
       - node_modules/
 
 testing:
-  stage: test
+  stage: testing
   script:
     - jest
