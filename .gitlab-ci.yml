@@ -19,4 +19,4 @@ install_dependencies:
 testing:
   stage: testing
   script:
-    - jest
+    - yarn test
